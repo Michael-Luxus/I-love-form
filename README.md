@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Le site du résultat est visible sur: https://laxus-form.herokuapp.com/
 
-Things you may want to cover:
+Merci!
 
-* Ruby version
+# OPÉRATEUR DU PROJET
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+Michael-Luxus
+...
 
 * ...
